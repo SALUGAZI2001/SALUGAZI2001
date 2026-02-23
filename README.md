@@ -21,7 +21,7 @@ I am a curious, proactive, and highly committed person who thrives in a team env
 
 ## 📁 Featured Projects
 
-* **Taxi Reservation Web Application (2022-2023):** Design and development of a web application for booking taxis[cite: 37]. [cite_start]This project involved skills such as HTML, CSS, Javascript, PHP, Laravel, MySQL, along with project management using Trello and UML design.
+* **Taxi Reservation Web Application (2022-2023):** Design and development of a web application for booking taxisThis project involved skills such as HTML, CSS, Javascript, PHP, Laravel, MySQL, along with project management using Trello and UML design.
 
 ## 📫 Get in Touch
 
